@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61bf39c-2a4c-4233-a05b-605382c443db" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value=".vue" />
+        <option value="vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqeStXvzu0OkEDSy9aJsT4mczJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/personage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jw\TS\pages\personage" />
+      <recent name="E:\jw\TS\pages\serve" />
+      <recent name="E:\jw\TS\components\tabBar" />
+      <recent name="E:\jw\TS\pages\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61bf39c-2a4c-4233-a05b-605382c443db" name="默认更改列表" comment="" />
+      <created>1604536055997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604536055997</updated>
+      <workItem from="1604536057849" duration="12235000" />
+      <workItem from="1604622614470" duration="13814000" />
+      <workItem from="1605832609670" duration="12176000" />
+      <workItem from="1606092091984" duration="771000" />
+      <workItem from="1606106083308" duration="9304000" />
+      <workItem from="1606179563868" duration="10870000" />
+      <workItem from="1606465136956" duration="1932000" />
+      <workItem from="1606697126068" duration="5958000" />
+      <workItem from="1606783355575" duration="1641000" />
+      <workItem from="1607409204271" duration="4766000" />
+      <workItem from="1607473632974" duration="6962000" />
+      <workItem from="1607560552710" duration="1511000" />
+      <workItem from="1607652681423" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2873" y="332" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1606110519753">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2873" y="332" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606110519753" />
+    <state x="2580" y="240" width="599" height="560" key="find.popup" timestamp="1606783386399">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="240" width="599" height="560" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606700638702" />
+    <state x="2580" y="240" width="599" height="560" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606783386399" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605840697954">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605840697954" />
+  </component>
+</project>

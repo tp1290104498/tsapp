@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/serve/index",
+    "pages/personage/index",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "唐商",
+    "navigationBarBackgroundColor": "#363cfb",
+    "backgroundColor": "#363cfb"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#147cfa",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "大厅",
+        "iconPath": "static/img/dt1.png",
+        "selectedIconPath": "static/img/dt.png"
+      },
+      {
+        "pagePath": "pages/serve/index",
+        "text": "服务",
+        "iconPath": "static/img/fw1.png",
+        "selectedIconPath": "static/img/fw.png"
+      },
+      {
+        "pagePath": "pages/personage/index",
+        "text": "个人",
+        "iconPath": "static/img/gr1.png",
+        "selectedIconPath": "static/img/gr.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
